@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xms7210 SOURAB GHOSH
-- 👀 I’m interested in HACKING
+- 👀 I’m interested in HACKING and I' m also preparing for OSCP
 - 🌱 I’m currently learning CS50 in Harvard University  
 - 💞️ I ’m looking to grow my company Lemon india.llc
 - 📫 How to reach me ... by https://xmshind.code.blog
